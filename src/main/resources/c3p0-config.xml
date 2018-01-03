@@ -2,7 +2,7 @@
 <c3p0-config>
 	<named-config name="mysql">
 		<property name="driverClass">com.mysql.jdbc.Driver</property>
-		<property name="jdbcUrl">jdbc:mysql://39.106.44.255:3306/emailValidate?useSSL=false
+		<property name="jdbcUrl">jdbc:mysql://127.0.0.1:3306/emailValidate?useSSL=false
 		</property>
 		<property name="user">root</property>
 		<property name="password">123456</property>
